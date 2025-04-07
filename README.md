@@ -47,16 +47,3 @@ Redeploy production:
 sudo docker-compose up --detach --build api
 ```
 
-# DevOps
-
-Backup the database:
-
-```
-sudo docker exec -i backend_database /usr/bin/pg_dump -U snips snips | gzip -9 > postgres-backup-2022_07_24.sql.gz
-```
-
-Restore the database
-
-```
-pg_restore -U <database_owner> -d <database_name> <path_to_dump>
-```
