@@ -1,0 +1,64 @@
+{
+    "data": [
+    {
+    "name": "Risk in Investing",
+    "text": "Investing always involves risk. The value of your investments can go up and down depending on various factors, such as economic conditions, company performance, and global events. By understanding the risks, you can make informed decisions and minimize the impact of any losses.",
+    "questions": [
+    {
+    "text": "What is investing always associated with?",
+    "answers": [
+    {"text": "Risk", "is_correct": true},
+    {"text": "Reward", "is_correct": false},
+    {"text": "Certainty", "is_correct": false}
+    ]
+    },
+    {
+    "text": "What are some factors that can affect the value of your investments?",
+    "answers": [
+    {"text": "Economic conditions, company performance, and global events", "is_correct": true},
+    {"text": "Political affiliations, social events, and cultural changes", "is_correct": false},
+    {"text": "Personal beliefs, family background, and education level", "is_correct": false}
+    ]
+    },
+    {
+    "text": "Why is it important to understand the risks of investing?",
+    "answers": [
+    {"text": "To make informed decisions and minimize the impact of any losses", "is_correct": true},
+    {"text": "To maximize your profits and beat the market", "is_correct": false},
+    {"text": "To avoid investing altogether and keep your money safe in a bank account", "is_correct": false}
+    ]
+    }
+    ]
+    },
+    {
+    "name": "Diversification",
+    "text": "Diversification is a strategy that involves spreading your investments across multiple assets and asset classes to reduce risk. By diversifying, you can potentially increase returns while minimizing the impact of any losses. It's important to keep in mind that diversification does not guarantee a profit or protect against loss, but it can help reduce the overall risk of your portfolio.",
+    "questions": [
+    {
+    "text": "What is the main goal of such investing strategy as diversification?",
+    "answers": [
+    {"text": "It helps to reduce risk", "is_correct": true},
+    {"text": "It maximizes your gains", "is_correct": false},
+    {"text": "It reduces debt", "is_correct": false}
+    ]
+    },
+    {
+    "text": "How can you diversify?",
+    "answers": [
+    {"text": "Invest in different assets and asset classes", "is_correct": true},
+    {"text": "Investing all your money in stocks", "is_correct": false},
+    {"text": "Borrow money from different lenders", "is_correct": false}
+    ]
+    },
+    {
+    "text": "How does diversification guarantee you a profit?",
+    "answers": [
+    {"text": "Diversification does not guarantee a profit", "is_correct": true},
+    {"text": "By spreading risk between different assets", "is_correct": false},
+    {"text": "By reducing the risk of losses", "is_correct": false}
+    ]
+    }
+    ]
+    }
+    ]
+    }

@@ -1,0 +1,64 @@
+{
+    "data": [
+      {
+        "name": "Investment Risks",
+        "text": "Understand that all investments come with some level of risk. Diversify your portfolio by investing in different assets and industries. Avoid investing all your money in a single investment.",
+        "questions": [
+          {
+            "text": "What should you do to reduce investment risk?",
+            "answers": [
+              {"text": "Diversify your portfolio", "is_correct": true},
+              {"text": "Invest all your money in a single investment", "is_correct": false},
+              {"text": "Follow rumors", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is diversification?",
+            "answers": [
+              {"text": "Investing in different assets and industries", "is_correct": true},
+              {"text": "Investing in only one asset and industry", "is_correct": false},
+              {"text": "Not investing at all", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Is investing risk-free?",
+            "answers": [
+              {"text": "No", "is_correct": true},
+              {"text": "Yes", "is_correct": false},
+              {"text": "It depends", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Financial Goals",
+        "text": "Set financial goals that are specific, measurable, achievable, relevant, and time-bound. Prioritize your goals and create a plan to achieve them. Regularly review your progress and adjust your plan as needed.",
+        "questions": [
+          {
+            "text": "What is a SMART financial goal?",
+            "answers": [
+              {"text": "Specific, measurable, achievable, relevant, and time-bound", "is_correct": true},
+              {"text": "Subjective, measurable, achievable, relevant, and time-bound", "is_correct": false},
+              {"text": "Specific, measurable, achievable, relevant, and transparent", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What should you do after setting financial goals?",
+            "answers": [
+              {"text": "Prioritize your goals and create a plan to achieve them", "is_correct": true},
+              {"text": "Forget about your goals", "is_correct": false},
+              {"text": "Wait for a miracle", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Why should you regularly review your progress?",
+            "answers": [
+              {"text": "To adjust your plan as needed", "is_correct": true},
+              {"text": "To give up on your goals", "is_correct": false},
+              {"text": "To celebrate your achievements", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }

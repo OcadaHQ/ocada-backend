@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "P/E Ratio Basics",
+        "text": "The P/E ratio compares a company's current stock price to its earnings per share (EPS). A low P/E ratio can indicate that a stock is undervalued, while a high P/E ratio can mean that a stock is overvalued. However, it's important to consider other factors when deciding whether to invest in a company based on its P/E ratio.",
+        "questions": [
+          {
+            "text": "What does P/E ratio compare?",
+            "answers": [
+              {"text": "Stock price to earnings (EPS)", "is_correct": true},
+              {"text": "Dividend yield to stock price", "is_correct": false},
+              {"text": "Market capitalization to revenue", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What can a low P/E ratio indicate?",
+            "answers": [
+              {"text": "Stock is undervalued", "is_correct": true},
+              {"text": "Stock is overvalued", "is_correct": false},
+              {"text": "Stock is stable", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Is P/E ratio the only factor to consider when investing in a company?",
+            "answers": [
+              {"text": "No", "is_correct": true},
+              {"text": "Yes", "is_correct": false},
+              {"text": "Sometimes", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Analyzing P/E Ratios",
+        "text": "When comparing P/E ratios, it's important to compare companies in the same industry. For example, a technology company may have a higher P/E ratio than a utility company due to its potential for faster growth. Additionally, historical P/E ratios can provide insight into a company's stock valuation.",
+        "questions": [
+          {
+            "text": "Should you compare P/E ratios of companies in different industries?",
+            "answers": [
+              {"text": "No", "is_correct": true},
+              {"text": "Yes", "is_correct": false},
+              {"text": "Sometimes", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Why may a technology company have a higher P/E ratio than a utility company?",
+            "answers": [
+              {"text": "Potential for faster growth", "is_correct": true},
+              {"text": "Higher dividends", "is_correct": false},
+              {"text": "Lower risk", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What can historical P/E ratios provide insight into?",
+            "answers": [
+              {"text": "Stock valuation", "is_correct": true},
+              {"text": "Revenue growth", "is_correct": false},
+              {"text": "Dividend yield", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

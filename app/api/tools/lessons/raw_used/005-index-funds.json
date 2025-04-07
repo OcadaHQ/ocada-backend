@@ -1,0 +1,95 @@
+{
+    "data": [
+      {
+        "name": "Index Funds",
+        "text": "Investing in index funds is a good way to diversify your portfolio and reduce risk. These funds track a specific market index, such as the S&P 500, and offer low fees and consistent returns over the long-term.",
+        "questions": [
+          {
+            "text": "What is an index fund?",
+            "answers": [
+              { "text": "Tracks a market index", "is_correct": true },
+              { "text": "High fees and risk", "is_correct": false },
+              { "text": "Invests in individual stocks", "is_correct": false }
+            ]
+          },
+          {
+            "text": "What are the benefits of investing in index funds?",
+            "answers": [
+              { "text": "Diversification and low fees", "is_correct": true },
+              { "text": "High returns and risk", "is_correct": false },
+              { "text": "Active management and high fees", "is_correct": false }
+            ]
+          },
+          {
+            "text": "Which index do most index funds track?",
+            "answers": [
+              { "text": "S&P 500", "is_correct": true },
+              { "text": "NASDAQ", "is_correct": false },
+              { "text": "Dow Jones Industrial Average", "is_correct": false }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mutual Funds",
+        "text": "Investing in mutual funds is another way to diversify your portfolio, but these funds are actively managed by a fund manager who selects the individual stocks or bonds. Mutual funds typically have higher fees than index funds but can offer higher returns if managed well.",
+        "questions": [
+          {
+            "text": "How are mutual funds managed?",
+            "answers": [
+              { "text": "Actively by a fund manager", "is_correct": true },
+              { "text": "Passively by a computer algorithm", "is_correct": false },
+              { "text": "By the individual investor", "is_correct": false }
+            ]
+          },
+          {
+            "text": "What are the potential benefits of investing in mutual funds?",
+            "answers": [
+              { "text": "Higher returns with active management", "is_correct": true },
+              { "text": "Low fees and consistent returns", "is_correct": false },
+              { "text": "Investment in individual stocks", "is_correct": false }
+            ]
+          },
+          {
+            "text": "How do mutual fund fees compare to index fund fees?",
+            "answers": [
+              { "text": "Higher fees", "is_correct": true },
+              { "text": "Lower fees", "is_correct": false },
+              { "text": "Same fees", "is_correct": false }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ETFs",
+        "text": "ETFs, or exchange-traded funds, are similar to index funds but are traded like individual stocks on an exchange. This means they can be bought and sold throughout the day, like stocks, and offer lower fees than mutual funds. ETFs also offer diversification and can track a specific market index or sector.",
+        "questions": [
+          {
+            "text": "How are ETFs traded?",
+            "answers": [
+              { "text": "Like individual stocks", "is_correct": true },
+              { "text": "Only at specific times", "is_correct": false },
+              { "text": "Through a fund manager", "is_correct": false }
+            ]
+          },
+          {
+            "text": "What are the benefits of investing in ETFs?",
+            "answers": [
+              { "text": "Low fees and diversification", "is_correct": true },
+              { "text": "Active management and high fees", "is_correct": false },
+              { "text": "Investment in individual stocks", "is_correct": false }
+            ]
+          },
+          {
+            "text": "Can ETFs track a specific market index or sector?",
+            "answers": [
+              { "text": "Yes", "is_correct": true },
+              { "text": "No", "is_correct": false },
+              { "text": "It depends", "is_correct": false }
+            ]
+          }
+        ]
+      }
+    ]
+}
+      

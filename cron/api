@@ -1,0 +1,11 @@
+# refresh portfolio (every 5 minutes)
+*/5 * * * * root /app/api/cron_5min.sh > /dev/null 2>&1
+
+# reset weekly XP (at 00:00 on Monday - start of the week)
+0 0 * * 1   root /app/api/cron_week_start.sh > /dev/null 2>&1
+
+# refresh revenuecat user status every 3 hours
+37 */3 * * * root /app/api/cron_3hours.sh > /dev/null 2>&1
+
+# nightly updates
+3 */12 * * * root /app/api/cron_nightly.sh > /dev/null 2>&1

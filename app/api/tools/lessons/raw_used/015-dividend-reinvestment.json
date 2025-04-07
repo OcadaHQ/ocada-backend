@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "DRIP Eligibility",
+        "text": "Not all companies offer DRIPs, so it's important to check whether the company you're investing in offers a DRIP before buying its stock. Additionally, some companies have specific eligibility requirements for their DRIPs, such as minimum share ownership or residency requirements.",
+        "questions": [
+          {
+            "text": "Do all companies offer DRIPs?",
+            "answers": [
+              {"text": "No", "is_correct": true},
+              {"text": "Yes", "is_correct": false},
+              {"text": "Depends on the industry", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is a potential eligibility requirement for a company's DRIP?",
+            "answers": [
+              {"text": "Minimum share ownership", "is_correct": true},
+              {"text": "High income", "is_correct": false},
+              {"text": "Foreign citizenship", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Why is it important to check DRIP eligibility before investing?",
+            "answers": [
+              {"text": "Ensure availability", "is_correct": true},
+              {"text": "Avoid taxes", "is_correct": false},
+              {"text": "Maximize dividends", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "DRIP vs. Cash Dividends",
+        "text": "While DRIPs can be a good way to compound your returns over time, sometimes it can be better to receive cash dividends instead. For example, if you need the money to cover living expenses or to invest in other opportunities. Additionally, cash dividends may be subject to lower taxes than reinvested dividends.",
+        "questions": [
+          {
+            "text": "When might it be better to receive cash dividends instead of reinvesting?",
+            "answers": [
+              {"text": "To cover living expenses", "is_correct": true},
+              {"text": "To maximize returns", "is_correct": false},
+              {"text": "To minimize taxes", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is a potential advantage of receiving cash dividends instead of reinvesting?",
+            "answers": [
+              {"text": "Lower taxes", "is_correct": true},
+              {"text": "Higher returns", "is_correct": false},
+              {"text": "Faster compounding", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Are reinvested dividends always subject to higher taxes than cash dividends?",
+            "answers": [
+              {"text": "No", "is_correct": true},
+              {"text": "Yes", "is_correct": false},
+              {"text": "Depends on the company", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

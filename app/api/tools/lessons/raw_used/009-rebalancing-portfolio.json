@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "Portfolio Rebalancing",
+        "text": "Rebalancing your portfolio means adjusting the percentage of each asset you hold to maintain the desired level of risk and return.",
+        "questions": [
+          {
+            "text": "What is portfolio rebalancing?",
+            "answers": [
+              {"text": "Adjusting asset percentage", "is_correct": true},
+              {"text": "Buying new assets", "is_correct": false},
+              {"text": "Selling all assets", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Why is rebalancing important?",
+            "answers": [
+              {"text": "Maintains risk and return", "is_correct": true},
+              {"text": "Maximizes profits", "is_correct": false},
+              {"text": "Minimizes taxes", "is_correct": false}
+            ]
+          },
+          {
+            "text": "How often should you rebalance?",
+            "answers": [
+              {"text": "Once a year", "is_correct": false},
+              {"text": "When your asset allocation changes", "is_correct": true},
+              {"text": "Never", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Asset Allocation",
+        "text": "Asset allocation means dividing your investment portfolio among different asset categories, such as stocks, bonds, and cash.",
+        "questions": [
+          {
+            "text": "What is asset allocation?",
+            "answers": [
+              {"text": "Dividing investments", "is_correct": true},
+              {"text": "Buying only stocks", "is_correct": false},
+              {"text": "Selling all assets", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Why is asset allocation important?",
+            "answers": [
+              {"text": "Reduces risk", "is_correct": true},
+              {"text": "Increases profits", "is_correct": false},
+              {"text": "Maximizes taxes", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What factors should you consider when determining your asset allocation?",
+            "answers": [
+              {"text": "Time horizon, risk tolerance, and investment goals", "is_correct": true},
+              {"text": "Market trends and news headlines", "is_correct": false},
+              {"text": "Your favorite investment advisor's recommendation", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,64 @@
+{
+    "data": [
+      {
+        "name": "Origins of Debt",
+        "text": "Governments accumulate national debt when they spend more money than they collect in taxes. This borrowing is often necessary to fund public services and infrastructure projects. However, excessive debt can lead to economic challenges, such as higher interest payments and potential inflation.",
+        "questions": [
+          {
+            "text": "How do governments accumulate national debt?",
+            "answers": [
+              {"text": "Charge higher taxes", "is_correct": false},
+              {"text": "Spend more than collect from taxes", "is_correct": true},
+              {"text": "Establish monarchy", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What may national debt lead to?",
+            "answers": [
+              {"text": "Lower taxes", "is_correct": false},
+              {"text": "Inflation and higher interest rates", "is_correct": true},
+              {"text": "Icreased budget to build schools", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What could be a reasons governments borrow money?",
+            "answers": [
+              {"text": "To reduce public spending", "is_correct": false},
+              {"text": "To build infrastructure", "is_correct": true},
+              {"text": "To lower interest rates", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dealing with National Debt",
+        "text": "To manage national debt effectively, governments can use strategies such as fiscal discipline, controlling public spending, and implementing economic reforms. Additionally, they may consider refinancing debt at lower interest rates or issuing bonds to raise funds from investors.",
+        "questions": [
+          {
+            "text": "What are some methods to deal with national debt?",
+            "answers": [
+              {"text": "Increasing public spending", "is_correct": false},
+              {"text": "Issuing bonds", "is_correct": true},
+              {"text": "Reducing taxes without a plan", "is_correct": false}
+            ]
+          },
+          {
+            "text": "How can governments reduce national debt?",
+            "answers": [
+              {"text": "Implement economic reforms", "is_correct": true},
+              {"text": "Borrow more money", "is_correct": false},
+              {"text": "Decrease interest rates", "is_correct": false}
+            ]
+          },
+          {
+            "text": "How can the government improve national debt?",
+            "answers": [
+              {"text": "Cut taxes drastically", "is_correct": false},
+              {"text": "Control public spending and budget", "is_correct": true},
+              {"text": "Print more money", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }

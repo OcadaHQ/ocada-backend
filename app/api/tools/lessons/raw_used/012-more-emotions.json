@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "Avoiding Confirmation Bias",
+        "text": "Avoid confirmation bias by seeking out information that contradicts your beliefs about a particular investment. This will help you make more well-rounded and informed investment decisions.",
+        "questions": [
+          {
+            "text": "What is confirmation bias?",
+            "answers": [
+              {"text": "Seeking information that confirms your beliefs", "is_correct": true},
+              {"text": "Seeking information that contradicts your beliefs", "is_correct": false},
+              {"text": "Not seeking any information", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What should you do to avoid confirmation bias?",
+            "answers": [
+              {"text": "Seek out contradictory information", "is_correct": true},
+              {"text": "Ignore all information", "is_correct": false},
+              {"text": "Only seek out confirming information", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Will seeking out contradictory information help you make more informed decisions?",
+            "answers": [
+              {"text": "Yes", "is_correct": true},
+              {"text": "No", "is_correct": false},
+              {"text": "I don't know", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Having Realistic Expectations",
+        "text": "Set realistic expectations for your investments and understand that there will always be some level of risk involved. Remember that investing is a long-term game, and avoid making impulsive decisions based on short-term gains or losses.",
+        "questions": [
+          {
+            "text": "Should you have realistic expectations for your investments?",
+            "answers": [
+              {"text": "Yes", "is_correct": true},
+              {"text": "No", "is_correct": false},
+              {"text": "I don't know", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Is there always some level of risk involved in investing?",
+            "answers": [
+              {"text": "Yes", "is_correct": true},
+              {"text": "No", "is_correct": false},
+              {"text": "I don't know", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Should you make impulsive decisions based on short-term gains or losses?",
+            "answers": [
+              {"text": "No", "is_correct": true},
+              {"text": "Yes", "is_correct": false},
+              {"text": "Sometimes", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

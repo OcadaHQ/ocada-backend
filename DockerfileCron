@@ -1,0 +1,41 @@
+FROM python:3.9
+
+ARG APP_DB_HOST
+ARG APP_DB_PORT
+ARG APP_DB_USER
+ARG APP_DB_PASSWORD
+ARG APP_DB_NAME
+ARG APP_ENVIRONMENT
+ARG APP_AUTH_SECRET
+ARG REVCAT_PUBLIC_API_KEY
+
+RUN apt update && apt upgrade -y
+
+RUN apt install -y cron
+
+RUN pip install -U \
+    pip \
+    setuptools \
+    wheel
+
+WORKDIR /app
+
+# copy dependencies and install cached requirements
+COPY ./app/api/requirements.txt .
+RUN pip install -r requirements.txt
+
+# copy the source code
+COPY ./app .
+RUN chmod +x /app/api/cron_5min.sh
+RUN chmod +x /app/api/cron_3hours.sh
+RUN chmod +x /app/api/cron_nightly.sh
+RUN chmod +x /app/api/cron_week_start.sh
+RUN chmod +x /app/api/entrypoint_cron.sh
+#COPY ./cron/api /etc/cron.d/
+
+ARG GIT_HASH
+ENV GIT_HASH=${GIT_HASH:-dev}
+
+WORKDIR /
+
+ENTRYPOINT ["./app/api/entrypoint_cron.sh"]

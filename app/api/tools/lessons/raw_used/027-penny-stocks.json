@@ -1,0 +1,64 @@
+{
+    "data": [
+      {
+        "name": "Penny Stocks 101",
+        "text": "Penny stocks can be risky and volatile, so it's important to do your research and invest only what you can afford to lose.",
+        "questions": [
+          {
+            "text": "What should you do before investing in penny stocks?",
+            "answers": [
+              {"text": "Research", "is_correct": true},
+              {"text": "Guess", "is_correct": false},
+              {"text": "Ignore", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Are penny stocks generally low or high risk?",
+            "answers": [
+              {"text": "High", "is_correct": true},
+              {"text": "Low", "is_correct": false},
+              {"text": "Moderate", "is_correct": false}
+            ]
+          },
+          {
+            "text": "How much should you invest in penny stocks?",
+            "answers": [
+              {"text": "What you can afford to lose", "is_correct": true},
+              {"text": "All your savings", "is_correct": false},
+              {"text": "As much as possible", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Avoiding Penny Stock Scams",
+        "text": "Be wary of penny stock scams that promise quick profits or use high-pressure tactics. Look for warning signs like unsolicited emails or calls, unverifiable claims, and no real company or product behind the stock.",
+        "questions": [
+          {
+            "text": "What are some warning signs of penny stock scams?",
+            "answers": [
+              {"text": "Unverifiable claims", "is_correct": true},
+              {"text": "High returns guaranteed", "is_correct": true},
+              {"text": "Real company or product", "is_correct": true}
+            ]
+          },
+          {
+            "text": "What should you do if you suspect a penny stock scam?",
+            "answers": [
+              {"text": "Report it to authorities", "is_correct": true},
+              {"text": "Invest more money", "is_correct": false},
+              {"text": "Ignore it", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Are penny stock scams common?",
+            "answers": [
+              {"text": "Yes", "is_correct": true},
+              {"text": "No", "is_correct": false},
+              {"text": "Sometimes", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }

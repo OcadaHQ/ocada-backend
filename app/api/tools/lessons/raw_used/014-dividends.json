@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "Dividend Basics",
+        "text": "Dividends are payments made by companies to their shareholders as a reward for owning their stock. Dividend stocks can be a good way to generate passive income and can be less risky than growth stocks. However, not all companies pay dividends, and dividend payments are not guaranteed.",
+        "questions": [
+          {
+            "text": "What are dividends?",
+            "answers": [
+              {"text": "Company payments", "is_correct": true},
+              {"text": "Shareholder gifts", "is_correct": false},
+              {"text": "Market fluctuations", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Why are dividend stocks less risky than growth stocks?",
+            "answers": [
+              {"text": "Steady income", "is_correct": true},
+              {"text": "Higher returns", "is_correct": false},
+              {"text": "Better diversification", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Are all companies required to pay dividends?",
+            "answers": [
+              {"text": "No", "is_correct": true},
+              {"text": "Yes", "is_correct": false},
+              {"text": "Depends on the industry", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dividend Reinvestment",
+        "text": "Dividend reinvestment plans (DRIPs) allow shareholders to automatically reinvest their dividend payments into additional shares of the same stock, often at a discount. DRIPs can help investors to compound their returns over time and can be a good way to invest small amounts of money on a regular basis. However, DRIPs can also be subject to fees and taxes.",
+        "questions": [
+          {
+            "text": "What is a DRIP?",
+            "answers": [
+              {"text": "Dividend reinvestment plan", "is_correct": true},
+              {"text": "Diversified retirement income plan", "is_correct": false},
+              {"text": "Daily return investment program", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is a potential advantage of using a DRIP?",
+            "answers": [
+              {"text": "Compound returns", "is_correct": true},
+              {"text": "Higher dividends", "is_correct": false},
+              {"text": "Lower taxes", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Are DRIPs subject to fees and taxes?",
+            "answers": [
+              {"text": "Yes", "is_correct": true},
+              {"text": "No", "is_correct": false},
+              {"text": "Depends on the company", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

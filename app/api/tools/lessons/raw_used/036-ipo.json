@@ -1,0 +1,118 @@
+{
+    "data": [
+    {
+    "name": "Lesson 1",
+    "text": "Private companies become public to raise capital from the public and expand their operations.",
+    "questions": [
+    {
+    "text": "Why do private companies go public?",
+    "answers": [
+    {
+    "text": "Expand their operations",
+    "is_correct": true
+    },
+    {
+    "text": "Reduce taxes",
+    "is_correct": false
+    },
+    {
+    "text": "Avoid government regulations",
+    "is_correct": false
+    }
+    ]
+    },
+    {
+    "text": "What does it mean for a company to go public?",
+    "answers": [
+    {
+    "text": "Raise capital from the public",
+    "is_correct": true
+    },
+    {
+    "text": "Merge with another company",
+    "is_correct": false
+    },
+    {
+    "text": "Become a non-profit organization",
+    "is_correct": false
+    }
+    ]
+    },
+    {
+    "text": "What is the primary benefit of going public?",
+    "answers": [
+    {
+    "text": "Access to more capital",
+    "is_correct": true
+    },
+    {
+    "text": "Lower production costs",
+    "is_correct": false
+    },
+    {
+    "text": "Increased privacy",
+    "is_correct": false
+    }
+    ]
+    }
+    ]
+    },
+    {
+    "name": "Lesson 2",
+    "text": "An Initial Public Offering (IPO) is the first sale of a company's stock to the public.",
+    "questions": [
+    {
+    "text": "What does IPO stand for?",
+    "answers": [
+    {
+    "text": "Initial Public Offering",
+    "is_correct": true
+    },
+    {
+    "text": "International Product Organization",
+    "is_correct": false
+    },
+    {
+    "text": "Investment Portfolio Opportunity",
+    "is_correct": false
+    }
+    ]
+    },
+    {
+    "text": "What is an IPO?",
+    "answers": [
+    {
+    "text": "First sale of company stock to the public",
+    "is_correct": true
+    },
+    {
+    "text": "Acquisition of a private company",
+    "is_correct": false
+    },
+    {
+    "text": "Formation of a partnership",
+    "is_correct": false
+    }
+    ]
+    },
+    {
+    "text": "Why do companies go through an IPO?",
+    "answers": [
+    {
+    "text": "To raise capital and become publicly traded",
+    "is_correct": true
+    },
+    {
+    "text": "To avoid financial audits",
+    "is_correct": false
+    },
+    {
+    "text": "To reduce the number of shareholders",
+    "is_correct": false
+    }
+    ]
+    }
+    ]
+    }
+    ]
+    }

@@ -1,0 +1,118 @@
+{
+    "data": [
+    {
+    "name": "Environmental impact of cryptocurrencies",
+    "text": "Consider the environmental impact of cryptocurrencies. Some cryptocurrencies consume a significant amount of energy, contributing to carbon emissions. Before investing, research the energy consumption and environmental policies of the cryptocurrency you're interested in.",
+    "questions": [
+    {
+    "text": "From ethics perspective, what should you consider when investing in cryptocurrencies?",
+    "answers": [
+    {
+    "text": "Energy consumption",
+    "is_correct": true
+    },
+    {
+    "text": "Current market value",
+    "is_correct": false
+    },
+    {
+    "text": "Celebrity endorsements",
+    "is_correct": false
+    }
+    ]
+    },
+    {
+    "text": "What impact can some cryptocurrencies have on the environment?",
+    "answers": [
+    {
+    "text": "Carbon emissions",
+    "is_correct": true
+    },
+    {
+    "text": "Water pollution",
+    "is_correct": false
+    },
+    {
+    "text": "Air pollution",
+    "is_correct": false
+    }
+    ]
+    },
+    {
+    "text": "Why is it important to research the environmental policies of a cryptocurrency?",
+    "answers": [
+    {
+    "text": "To understand its impact on the environment",
+    "is_correct": true
+    },
+    {
+    "text": "To find out its market capitalization",
+    "is_correct": false
+    },
+    {
+    "text": "To know its historical price performance",
+    "is_correct": false
+    }
+    ]
+    }
+    ]
+    },
+    {
+    "name": "Blockchain and sustainability",
+    "text": "Explore the potential of blockchain technology for sustainable solutions. Blockchain has the ability to enhance transparency, traceability, and accountability in supply chains, promoting ethical and sustainable practices. Look for projects that leverage blockchain to address environmental challenges and support positive impact initiatives.",
+    "questions": [
+    {
+    "text": "What are some benefits of blockchain technology?",
+    "answers": [
+    {
+    "text": "Transparency and accountability",
+    "is_correct": true
+    },
+    {
+    "text": "Speed and efficiency",
+    "is_correct": false
+    },
+    {
+    "text": "Anonymity and privacy",
+    "is_correct": false
+    }
+    ]
+    },
+    {
+    "text": "How can blockchain technology positively contribute to sustainability?",
+    "answers": [
+    {
+    "text": "Enhance supply chain transparency",
+    "is_correct": true
+    },
+    {
+    "text": "Increase energy consumption",
+    "is_correct": false
+    },
+    {
+    "text": "Create more waste",
+    "is_correct": false
+    }
+    ]
+    },
+    {
+    "text": "What should you look for when exploring ethical blockchain projects?",
+    "answers": [
+    {
+    "text": "Initiatives addressing environmental challenges",
+    "is_correct": true
+    },
+    {
+    "text": "Projects with high market capitalization",
+    "is_correct": false
+    },
+    {
+    "text": "Cryptocurrencies endorsed by celebrities",
+    "is_correct": false
+    }
+    ]
+    }
+    ]
+    }
+    ]
+    }

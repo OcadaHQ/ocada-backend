@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "Capital Gains Tax 101",
+        "text": "When you sell an asset like stocks, bonds, or property for a profit, you may be subject to capital gains tax. The tax rate depends on how long you held the asset before selling it, with a lower rate for long-term holdings. Understanding the tax implications of your investments can help you make more informed decisions.",
+        "questions": [
+          {
+            "text": "What is capital gains tax?",
+            "answers": [
+              {"text": "Tax on asset sale", "is_correct": true},
+              {"text": "Income tax", "is_correct": false},
+              {"text": "Property tax", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What determines the tax rate for capital gains?",
+            "answers": [
+              {"text": "Length of ownership", "is_correct": true},
+              {"text": "Purchase price", "is_correct": false},
+              {"text": "Asset type", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Why is it important to understand capital gains tax?",
+            "answers": [
+              {"text": "Make informed decisions", "is_correct": true},
+              {"text": "Avoid taxes", "is_correct": false},
+              {"text": "Increase profits", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Minimizing Capital Gains Tax",
+        "text": "There are ways to minimize the impact of capital gains tax on your investments. One strategy is to hold investments for more than a year before selling, which qualifies for the lower long-term capital gains tax rate. Another strategy is to offset gains with losses, by selling assets that have lost value to offset gains on assets that have gained value.",
+        "questions": [
+          {
+            "text": "How can you minimize capital gains tax?",
+            "answers": [
+              {"text": "Hold for a year", "is_correct": true},
+              {"text": "Sell quickly", "is_correct": false},
+              {"text": "Buy more assets", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is the benefit of holding investments for more than a year?",
+            "answers": [
+              {"text": "Lower tax rate", "is_correct": true},
+              {"text": "Higher tax rate", "is_correct": false},
+              {"text": "No tax", "is_correct": false}
+            ]
+          },
+          {
+            "text": "How can you offset gains with losses?",
+            "answers": [
+              {"text": "Sell losing assets", "is_correct": true},
+              {"text": "Sell winning assets", "is_correct": false},
+              {"text": "Do nothing", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

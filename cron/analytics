@@ -1,0 +1,14 @@
+# historical pricing data (every night at 1am)
+#7 22 * * * root cd / && ./app/analytics/cron_nightly.sh > /dev/null 2>&1
+
+# up-to-date pricing data
+#*/5 * * * * root cd / && ./app/analytics/cron_market.sh > /dev/null 2>&1
+
+# fundamental KPI
+#7 */12 * * * root cd / && ./app/analytics/cron_fundamental.sh > /dev/null 2>&1
+
+# regular crypto prices update
+7 22 */2 * * root cd / && ./app/analytics/cron_1_day.sh
+7 */2 * * * root cd / && ./app/analytics/cron_1_hour.sh
+*/60 * * * * root cd / && ./app/analytics/cron_5_min.sh
+*/4 * * * * root cd / && ./app/analytics/cron_1_min.sh

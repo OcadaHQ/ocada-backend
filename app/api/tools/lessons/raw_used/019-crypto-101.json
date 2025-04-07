@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "name": "Crypto 101",
+            "text": "Invest only what you can afford to lose in cryptocurrencies. It's important to do your research and diversify your portfolio. Be mindful of scams and avoid investing in unknown projects.",
+            "questions": [
+                {
+                    "text": "What should you do before investing in cryptocurrencies?",
+                    "answers": [
+                        {"text": "Research", "is_correct": true},
+                        {"text": "Ignore", "is_correct": false},
+                        {"text": "Guess", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "What should you avoid when investing in cryptocurrencies?",
+                    "answers": [
+                        {"text": "Scams", "is_correct": true},
+                        {"text": "Research", "is_correct": false},
+                        {"text": "Diversify", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "What is the most important thing to remember when investing in cryptocurrencies?",
+                    "answers": [
+                        {"text": "Invest only what you can afford to lose", "is_correct": true},
+                        {"text": "Invest everything you have", "is_correct": false},
+                        {"text": "Invest in unknown projects", "is_correct": false}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Blockchain Basics",
+            "text": "Blockchain is a decentralized digital ledger that records transactions in a secure and transparent manner. It is the underlying technology behind cryptocurrencies and has many other applications. The data on a blockchain cannot be altered or deleted once it is recorded.",
+            "questions": [
+                {
+                    "text": "What is blockchain?",
+                    "answers": [
+                        {"text": "Decentralized digital ledger", "is_correct": true},
+                        {"text": "Centralized digital ledger", "is_correct": false},
+                        {"text": "Physical ledger", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "What is the benefit of using blockchain?",
+                    "answers": [
+                        {"text": "Secure and transparent transactions", "is_correct": true},
+                        {"text": "Insecure and opaque transactions", "is_correct": false},
+                        {"text": "Fast and cheap transactions", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "Can the data on a blockchain be altered or deleted?",
+                    "answers": [
+                        {"text": "No", "is_correct": true},
+                        {"text": "Yes", "is_correct": false},
+                        {"text": "Sometimes", "is_correct": false}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Crypto Basics",
+            "text": "Cryptocurrencies are digital assets that are designed to work as a medium of exchange. Unlike traditional currencies, they are not backed by a government or financial institution. Cryptocurrencies are decentralized and operate on a blockchain, a distributed ledger technology that provides transparency and security.",
+            "questions": [
+            {
+            "text": "What is a cryptocurrency?",
+            "answers": [
+            {"text": "Digital asset", "is_correct": true},
+            {"text": "Physical asset", "is_correct": false},
+            {"text": "Paper asset", "is_correct": false}
+            ]
+            },
+            {
+            "text": "How are cryptocurrencies different from traditional currencies?",
+            "answers": [
+            {"text": "Not backed by government", "is_correct": true},
+            {"text": "Backed by government", "is_correct": false},
+            {"text": "Backed by financial institution", "is_correct": false}
+            ]
+            },
+            {
+            "text": "What technology do cryptocurrencies operate on?",
+            "answers": [
+            {"text": "Blockchain", "is_correct": true},
+            {"text": "Cloud computing", "is_correct": false},
+            {"text": "Artificial intelligence", "is_correct": false}
+            ]
+            }
+            ]
+            },
+            {
+            "name": "Investing in Cryptocurrencies",
+            "text": "Investing in cryptocurrencies can be risky and volatile. It's important to do your research and only invest what you can afford to lose. Consider factors like market trends, regulatory environment, and the underlying technology of the cryptocurrency before investing.",
+            "questions": [
+            {
+            "text": "Is investing in cryptocurrencies risky?",
+            "answers": [
+            {"text": "Yes", "is_correct": true},
+            {"text": "No", "is_correct": false},
+            {"text": "Depends", "is_correct": false}
+            ]
+            },
+            {
+            "text": "What should you consider before investing in cryptocurrencies?",
+            "answers": [
+            {"text": "Market trends, regulatory environment, technology", "is_correct": true},
+            {"text": "Social media, celebrities, hype", "is_correct": false},
+            {"text": "Friends' recommendations, gut feeling, luck", "is_correct": false}
+            ]
+            },
+            {
+            "text": "How much should you invest in cryptocurrencies?",
+            "answers": [
+            {"text": "Only what you can afford to lose", "is_correct": true},
+            {"text": "All your savings", "is_correct": false},
+            {"text": "Borrowed money", "is_correct": false}
+            ]
+            }
+            ]
+            }
+    ]
+}

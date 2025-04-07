@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "REIT Basics",
+        "text": "Real Estate Investment Trusts (REITs) allow investors to earn a share of rental income from real estate without having to own or manage properties. They also often offer high dividend yields.",
+        "questions": [
+          {
+            "text": "What does REIT stand for?",
+            "answers": [
+              {"text": "Real Estate Investment Trust", "is_correct": true},
+              {"text": "Real Estate Investment Team", "is_correct": false},
+              {"text": "Real Estate Investment Fund", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What advantage do REITs offer compared to buying and managing properties directly?",
+            "answers": [
+              {"text": "No need to manage properties", "is_correct": true},
+              {"text": "Higher potential returns", "is_correct": false},
+              {"text": "Greater control over investments", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is one benefit of investing in REITs?",
+            "answers": [
+              {"text": "High dividend yields", "is_correct": true},
+              {"text": "Low risk", "is_correct": false},
+              {"text": "Quick returns", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Types of REITs",
+        "text": "REITs can be classified as equity, mortgage, or hybrid REITs. Equity REITs own and manage physical properties, while mortgage REITs invest in mortgages and other real estate loans.",
+        "questions": [
+          {
+            "text": "What is the difference between equity and mortgage REITs?",
+            "answers": [
+              {"text": "Equity REITs own properties, while mortgage REITs invest in loans", "is_correct": true},
+              {"text": "Equity REITs invest in loans, while mortgage REITs own properties", "is_correct": false},
+              {"text": "Equity REITs and mortgage REITs are the same thing", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is a hybrid REIT?",
+            "answers": [
+              {"text": "A REIT that invests in both properties and loans", "is_correct": true},
+              {"text": "A REIT that invests only in properties", "is_correct": false},
+              {"text": "A REIT that invests only in loans", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Which type of REIT invests primarily in mortgages and other real estate loans?",
+            "answers": [
+              {"text": "Mortgage REITs", "is_correct": true},
+              {"text": "Equity REITs", "is_correct": false},
+              {"text": "Hybrid REITs", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

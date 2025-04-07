@@ -1,0 +1,119 @@
+{
+    "data": [
+      {
+        "name": "Basics of Tax",
+        "text": "Always keep track of your income and taxes paid, as they can be used to claim deductions on your tax return. Familiarize yourself with the tax brackets and their corresponding rates to know how much you will be taxed. Consider investing in tax-advantaged accounts, usually the ones for pensions and retirement.",
+        "questions": [
+          {
+            "text": "What is the purpose of tracking your income and taxes paid?",
+            "answers": [
+              {
+                "text": "Claim deductions",
+                "is_correct": true
+              },
+              {
+                "text": "Avoid paying taxes",
+                "is_correct": false
+              },
+              {
+                "text": "Increase your income",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What are tax brackets?",
+            "answers": [
+              {
+                "text": "Different income ranges with corresponding tax rates",
+                "is_correct": true
+              },
+              {
+                "text": "Deductions on your tax return",
+                "is_correct": false
+              },
+              {
+                "text": "Investment accounts for tax savings",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "Which of the following is a tax-advantaged account?",
+            "answers": [
+              {
+                "text": "Pension/retirement account",
+                "is_correct": true
+              },
+              {
+                "text": "Savings account",
+                "is_correct": false
+              },
+              {
+                "text": "Checking account",
+                "is_correct": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Taxation of Investments",
+        "text": "Different types of investments are taxed differently. For example, capital gains taxes are paid on the profits made from selling investments like stocks and real estate. Dividends from stocks are also taxed, but at a lower rate. Consider the tax implications when making investment decisions to maximize your after-tax returns.",
+        "questions": [
+          {
+            "text": "What are capital gains taxes?",
+            "answers": [
+              {
+                "text": "Taxes paid on profits made from selling investments",
+                "is_correct": true
+              },
+              {
+                "text": "Taxes paid on investment contributions",
+                "is_correct": false
+              },
+              {
+                "text": "Taxes paid on dividends received from investments",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "Are dividends from stocks taxed?",
+            "answers": [
+              {
+                "text": "Yes",
+                "is_correct": true
+              },
+              {
+                "text": "No",
+                "is_correct": false
+              },
+              {
+                "text": "Depends on the investment",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "Why is it important to consider the tax implications when making investment decisions?",
+            "answers": [
+              {
+                "text": "To maximize after-tax returns",
+                "is_correct": true
+              },
+              {
+                "text": "To avoid paying taxes",
+                "is_correct": false
+              },
+              {
+                "text": "To increase risk",
+                "is_correct": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

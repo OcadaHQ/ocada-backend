@@ -1,0 +1,64 @@
+{
+    "data": [
+      {
+        "name": "Crypto Scams",
+        "text": "Be cautious of unsolicited messages or calls that promote investments in cryptocurrencies. Scammers often use social media platforms and messaging apps to approach potential victims. Always do your own research before investing in any cryptocurrency.",
+        "questions": [
+          {
+            "text": "How do scammers usually approach their victims?",
+            "answers": [
+              {"text": "Social media platforms", "is_correct": true},
+              {"text": "Newspapers", "is_correct": false},
+              {"text": "Billboards", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What should you do before investing in any cryptocurrency?",
+            "answers": [
+              {"text": "Do your own research", "is_correct": true},
+              {"text": "Listen to scammers", "is_correct": false},
+              {"text": "Trust your instincts", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is the best way to protect yourself against crypto scams?",
+            "answers": [
+              {"text": "Stay cautious", "is_correct": true},
+              {"text": "Invest all your money", "is_correct": false},
+              {"text": "Ignore warnings", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Protecting Crypto",
+        "text": "Keep your private keys and passwords safe by storing them offline or on a hardware wallet. Enable two-factor authentication on all your crypto-related accounts. Regularly update your anti-virus and anti-malware software.",
+        "questions": [
+          {
+            "text": "What should you do with your private keys and passwords?",
+            "answers": [
+              {"text": "Store them offline or on a hardware wallet", "is_correct": true},
+              {"text": "Share them with strangers", "is_correct": false},
+              {"text": "Use them everywhere", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is two-factor authentication?",
+            "answers": [
+              {"text": "An extra layer of security", "is_correct": true},
+              {"text": "A type of investment", "is_correct": false},
+              {"text": "A scam", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What should you do to protect your computer from malware?",
+            "answers": [
+              {"text": "Update your anti-virus and anti-malware software", "is_correct": true},
+              {"text": "Disable firewalls", "is_correct": false},
+              {"text": "Download suspicious attachments", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }

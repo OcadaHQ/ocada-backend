@@ -1,0 +1,118 @@
+{
+    "data": [
+    {
+    "name": "Public Companies",
+    "text": "Public companies are businesses that sell shares of stock to the public. They operate under regulations set by the securities exchange commission. By investing in public companies, you can become a partial owner and potentially earn profits through dividends and stock price appreciation.",
+    "questions": [
+    {
+    "text": "What is the purpose of selling shares to the public?",
+    "answers": [
+    {
+    "text": "Raise capital",
+    "is_correct": true
+    },
+    {
+    "text": "Avoid taxes",
+    "is_correct": false
+    },
+    {
+    "text": "Expand customer base",
+    "is_correct": false
+    }
+    ]
+    },
+    {
+    "text": "Who regulates public companies in the US?",
+    "answers": [
+    {
+    "text": "Securities and Exchange Commission",
+    "is_correct": true
+    },
+    {
+    "text": "Federal Reserve",
+    "is_correct": false
+    },
+    {
+    "text": "Internal Revenue Service",
+    "is_correct": false
+    }
+    ]
+    },
+    {
+    "text": "How can you earn profits from public companies?",
+    "answers": [
+    {
+    "text": "Dividends and stock price appreciation",
+    "is_correct": true
+    },
+    {
+    "text": "Monthly salary",
+    "is_correct": false
+    },
+    {
+    "text": "Coupon discounts",
+    "is_correct": false
+    }
+    ]
+    }
+    ]
+    },
+    {
+    "name": "How Public Companies Operate",
+    "text": "Public companies have a board of directors who make important decisions and appoint the management team. They are required to disclose financial information to the public regularly. Shareholders can vote on key matters during annual general meetings.",
+    "questions": [
+    {
+    "text": "Who makes important decisions in public companies?",
+    "answers": [
+    {
+    "text": "Board of directors",
+    "is_correct": true
+    },
+    {
+    "text": "Employees",
+    "is_correct": false
+    },
+    {
+    "text": "Customers",
+    "is_correct": false
+    }
+    ]
+    },
+    {
+    "text": "What do public companies disclose regularly?",
+    "answers": [
+    {
+    "text": "Financial information",
+    "is_correct": true
+    },
+    {
+    "text": "Employee salaries",
+    "is_correct": false
+    },
+    {
+    "text": "Marketing strategies",
+    "is_correct": false
+    }
+    ]
+    },
+    {
+    "text": "When can shareholders vote on key matters?",
+    "answers": [
+    {
+    "text": "During annual general meetings",
+    "is_correct": true
+    },
+    {
+    "text": "Anytime throughout the year",
+    "is_correct": false
+    },
+    {
+    "text": "Only when they own a majority of shares",
+    "is_correct": false
+    }
+    ]
+    }
+    ]
+    }
+    ]
+    }

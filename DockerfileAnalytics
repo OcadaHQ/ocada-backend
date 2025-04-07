@@ -1,0 +1,47 @@
+FROM python:3.9
+
+ARG APP_ENVIRONMENT
+ARG APP_DB_HOST
+ARG APP_DB_PORT
+ARG APP_DB_USER
+ARG APP_DB_PASSWORD
+ARG APP_DB_NAME
+ARG ALPACA_API_KEY_ID
+ARG ALPACA_SECRET_KEY
+ARG ALPHAVANTAGE_API_KEY
+
+RUN apt update && apt upgrade -y
+
+RUN apt install -y cron
+
+RUN pip install -U \
+    pip \
+    setuptools \
+    wheel
+
+WORKDIR /app
+
+# copy dependencies and install cached requirements
+COPY ./app/analytics/requirements.txt .
+RUN pip install -r requirements.txt
+
+# copy the source code
+COPY ./app .
+RUN chmod +x /app/analytics/cron_fundamental.sh
+RUN chmod +x /app/analytics/cron_market.sh
+RUN chmod +x /app/analytics/cron_nightly.sh
+RUN chmod +x /app/analytics/entrypoint.sh
+
+RUN chmod +x /app/analytics/cron_1_day.sh
+RUN chmod +x /app/analytics/cron_1_hour.sh
+RUN chmod +x /app/analytics/cron_1_min.sh
+RUN chmod +x /app/analytics/cron_5_min.sh
+
+ARG GIT_HASH
+ENV GIT_HASH=${GIT_HASH:-dev}
+
+COPY ./cron/analytics /etc/cron.d/
+
+WORKDIR /
+
+ENTRYPOINT ["./app/analytics/entrypoint.sh"]

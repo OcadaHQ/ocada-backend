@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "Housing Crisis",
+        "text": "The housing crisis refers to a period of time when there is a shortage of affordable housing. This can lead to an increase in homelessness and a decrease in quality of life for those affected. As an investor, it's important to be aware of the housing crisis and consider how your investments may impact the housing market.",
+        "questions": [
+          {
+            "text": "What is the housing crisis?",
+            "answers": [
+              {"text": "A shortage of affordable housing", "is_correct": true},
+              {"text": "An excess of available housing", "is_correct": false},
+              {"text": "A period of time when housing is unregulated", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What can the housing crisis lead to?",
+            "answers": [
+              {"text": "An increase in homelessness", "is_correct": true},
+              {"text": "A decrease in housing prices", "is_correct": false},
+              {"text": "An increase in quality of life", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Why is it important for investors to be aware of the housing crisis?",
+            "answers": [
+              {"text": "Investments may impact the housing market", "is_correct": true},
+              {"text": "Investments are unaffected by the housing market", "is_correct": false},
+              {"text": "Investments always help to alleviate the housing crisis", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ethics of Property Investing",
+        "text": "As a property investor, it's important to consider the ethical implications of your investments. This includes avoiding properties with a history of discrimination or unethical practices, and ensuring that your investments contribute to the community in a positive way. Additionally, consider the impact of gentrification on the local community and seek to mitigate negative effects.",
+        "questions": [
+          {
+            "text": "What should property investors consider when it comes to ethics?",
+            "answers": [
+              {"text": "Avoiding properties with a history of discrimination or unethical practices", "is_correct": true},
+              {"text": "Investing only in properties with the highest potential returns", "is_correct": false},
+              {"text": "Ignoring the impact of gentrification", "is_correct": false}
+            ]
+          },
+          {
+            "text": "How can property investors contribute to the community in a positive way?",
+            "answers": [
+              {"text": "Ensuring that investments benefit the community", "is_correct": true},
+              {"text": "Maximizing profits at any cost", "is_correct": false},
+              {"text": "Ignoring the needs of the community", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is gentrification and why should property investors seek to mitigate its negative effects?",
+            "answers": [
+              {"text": "Gentrification is the process of renovating and improving a neighborhood, often leading to displacement of lower-income residents. Investors should seek to mitigate negative effects to prevent harm to the community.", "is_correct": true},
+              {"text": "Gentrification is the process of investing in high-end properties only. Investors should embrace this process to maximize profits.", "is_correct": false},
+              {"text": "Gentrification is the process of creating affordable housing in low-income neighborhoods. Investors should support this process to help the community.", "is_correct": false}
+            ]
+          }
+        ]
+        }
+    ]
+}
+            

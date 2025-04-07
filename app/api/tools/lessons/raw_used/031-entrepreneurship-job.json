@@ -1,0 +1,119 @@
+{
+    "data": [
+      {
+        "name": "Entrepreneur vs Job",
+        "text": "Entrepreneurship offers unlimited income potential but comes with higher risk, while a salaried job offers a steady income with less risk.",
+        "questions": [
+          {
+            "text": "What is the biggest difference between entrepreneurship and a salaried job?",
+            "answers": [
+              {
+                "text": "Income potential",
+                "is_correct": true
+              },
+              {
+                "text": "Risk level",
+                "is_correct": false
+              },
+              {
+                "text": "Job security",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What is a benefit of having a salaried job?",
+            "answers": [
+              {
+                "text": "Steady income",
+                "is_correct": true
+              },
+              {
+                "text": "Unlimited income potential",
+                "is_correct": false
+              },
+              {
+                "text": "Flexible schedule",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What is a downside of entrepreneurship?",
+            "answers": [
+              {
+                "text": "Higher risk",
+                "is_correct": true
+              },
+              {
+                "text": "Steady income",
+                "is_correct": false
+              },
+              {
+                "text": "Job security",
+                "is_correct": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Entrepreneur Mindset",
+        "text": "Entrepreneurship requires a willingness to take risks, an ability to persevere through challenges, and a desire to create something new and valuable.",
+        "questions": [
+          {
+            "text": "What is a key trait of successful entrepreneurs?",
+            "answers": [
+              {
+                "text": "Willingness to take risks",
+                "is_correct": true
+              },
+              {
+                "text": "Desire for a steady income",
+                "is_correct": false
+              },
+              {
+                "text": "Love of routine",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What is one thing entrepreneurs must be able to do?",
+            "answers": [
+              {
+                "text": "Persevere through challenges",
+                "is_correct": true
+              },
+              {
+                "text": "Follow strict rules",
+                "is_correct": false
+              },
+              {
+                "text": "Delegate all tasks",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What is a common motivation for entrepreneurs?",
+            "answers": [
+              {
+                "text": "Creating something new and valuable",
+                "is_correct": true
+              },
+              {
+                "text": "Making a lot of money quickly",
+                "is_correct": false
+              },
+              {
+                "text": "Avoiding risk",
+                "is_correct": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

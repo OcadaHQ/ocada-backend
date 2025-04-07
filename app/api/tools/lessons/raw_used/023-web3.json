@@ -1,0 +1,118 @@
+{
+    "data": [
+        {
+            "name": "Web3 basics",
+            "text": "Web3 is the third generation of the internet. It enables decentralized applications, or dapps, that run on blockchain technology. Web3 is designed to be more secure, private, and autonomous than previous versions of the web.",
+            "questions": [
+                {
+                    "text": "What is Web3?",
+                    "answers": [
+                        {
+                            "text": "Third generation internet",
+                            "is_correct": true
+                        },
+                        {
+                            "text": "World-Wide Web",
+                            "is_correct": false
+                        },
+                        {
+                            "text": "5G technology",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "text": "What are dapps?",
+                    "answers": [
+                        {
+                            "text": "Decentralized applications",
+                            "is_correct": true
+                        },
+                        {
+                            "text": "Desktop applications",
+                            "is_correct": false
+                        },
+                        {
+                            "text": "Data applications",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "text": "What are the benefits of Web3?",
+                    "answers": [
+                        {
+                            "text": "More secure, private, and autonomous",
+                            "is_correct": true
+                        },
+                        {
+                            "text": "More centralized and controlled",
+                            "is_correct": false
+                        },
+                        {
+                            "text": "More open and public",
+                            "is_correct": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Web3 investments",
+            "text": "Web3 technologies, such as blockchain and cryptocurrencies, have the potential to revolutionize the financial industry. Investing in web3 projects can be risky but also very rewarding. It's important to do your own research and understand the risks before investing.",
+            "questions": [
+                {
+                    "text": "What are some web3 technologies?",
+                    "answers": [
+                        {
+                            "text": "Blockchain and cryptocurrencies",
+                            "is_correct": true
+                        },
+                        {
+                            "text": "Artificial intelligence and machine learning",
+                            "is_correct": false
+                        },
+                        {
+                            "text": "Virtual reality and augmented reality",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "text": "Is investing in web3 projects risky or safe?",
+                    "answers": [
+                        {
+                            "text": "Risky",
+                            "is_correct": true
+                        },
+                        {
+                            "text": "Safe",
+                            "is_correct": false
+                        },
+                        {
+                            "text": "Depends on the project",
+                            "is_correct": false
+                        }
+                    ]
+                },
+                {
+                    "text": "What should you do before investing in web3 projects?",
+                    "answers": [
+                        {
+                            "text": "Do your own research and understand the risks",
+                            "is_correct": true
+                        },
+                        {
+                            "text": "Invest all your savings",
+                            "is_correct": false
+                        },
+                        {
+                            "text": "Follow the advice of social media influencers",
+                            "is_correct": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

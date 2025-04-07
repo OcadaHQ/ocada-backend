@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "DCA Basics",
+        "text": "Investing regularly using dollar-cost averaging can help you avoid the risk of buying at a high price. By investing a fixed amount on a regular schedule, you buy more shares when prices are low and fewer when prices are high.",
+        "questions": [
+          {
+            "text": "What is dollar-cost averaging?",
+            "answers": [
+              {"text": "Regular investing", "is_correct": true},
+              {"text": "Buying low", "is_correct": false},
+              {"text": "Day trading", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is the benefit of dollar-cost averaging?",
+            "answers": [
+              {"text": "Avoiding high prices", "is_correct": true},
+              {"text": "Maximizing profits", "is_correct": false},
+              {"text": "Taking on more risk", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Does dollar-cost averaging guarantee profits?",
+            "answers": [
+              {"text": "No", "is_correct": true},
+              {"text": "Yes", "is_correct": false},
+              {"text": "Sometimes", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "DCA vs Timing the Market",
+        "text": "Dollar-cost averaging can be a good strategy to help mitigate the risks of timing the market. Market timing is difficult and often leads to lower returns than just holding onto investments for the long term.",
+        "questions": [
+          {
+            "text": "What is market timing?",
+            "answers": [
+              {"text": "Predicting market movements", "is_correct": true},
+              {"text": "Investing regularly", "is_correct": false},
+              {"text": "Buying low", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Why is market timing risky?",
+            "answers": [
+              {"text": "It's difficult to predict", "is_correct": true},
+              {"text": "It guarantees profits", "is_correct": false},
+              {"text": "It reduces risk", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Is dollar-cost averaging a good strategy for long-term investing?",
+            "answers": [
+              {"text": "Yes", "is_correct": true},
+              {"text": "No", "is_correct": false},
+              {"text": "Depends on the market", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

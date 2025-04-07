@@ -1,0 +1,64 @@
+{
+    "data": [
+      {
+        "name": "Pump & Dump Scams 101",
+        "text": "Never invest in a stock just because someone is touting it on social media. Do your own research and look for reputable sources of information. Beware of any investment opportunity that promises high returns with little or no risk.",
+        "questions": [
+          {
+            "text": "What should you do before investing in a stock that is being promoted on social media?",
+            "answers": [
+              {"text": "Research it", "is_correct": true},
+              {"text": "Ignore it", "is_correct": false},
+              {"text": "Buy it", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What should you look for when researching a stock?",
+            "answers": [
+              {"text": "Reputable sources of information", "is_correct": true},
+              {"text": "Unverified rumors", "is_correct": false},
+              {"text": "Your gut feeling", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Should you trust any investment opportunity that promises high returns with little or no risk?",
+            "answers": [
+              {"text": "No", "is_correct": true},
+              {"text": "Yes", "is_correct": false},
+              {"text": "Maybe", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Spotting Pump & Dumps",
+        "text": "Be wary of stocks that have a sudden, unexplained spike in price followed by an equally sudden drop. Look for unusually high trading volumes, particularly from unknown or offshore brokers. Avoid stocks that are being promoted through spam emails or unsolicited phone calls.",
+        "questions": [
+          {
+            "text": "What should you be wary of when looking for pump and dump scams?",
+            "answers": [
+              {"text": "Sudden, unexplained spikes in price", "is_correct": true},
+              {"text": "Steady growth over time", "is_correct": false},
+              {"text": "No change in price", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What should you look for when checking trading volumes?",
+            "answers": [
+              {"text": "Unusually high volumes", "is_correct": true},
+              {"text": "Unusually low volumes", "is_correct": false},
+              {"text": "No change in volumes", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Should you trust stocks that are being promoted through spam emails or unsolicited phone calls?",
+            "answers": [
+              {"text": "No", "is_correct": true},
+              {"text": "Yes", "is_correct": false},
+              {"text": "Maybe", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }

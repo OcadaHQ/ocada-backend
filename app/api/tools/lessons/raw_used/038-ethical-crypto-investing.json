@@ -1,0 +1,118 @@
+{
+    "data": [
+      {
+        "name": "Green Crypto",
+        "text": "Consider the environmental impact of cryptocurrencies before investing. Some cryptocurrencies consume massive amounts of energy during mining and transactions, contributing to climate change. Look for eco-friendly cryptocurrencies that use more sustainable consensus mechanisms like Proof of Stake.",
+        "questions": [
+          {
+            "text": "Why should you consider the environmental impact of cryptocurrencies?",
+            "answers": [
+              {
+                "text": "Safety and security",
+                "is_correct": false
+              },
+              {
+                "text": "Avoiding scams",
+                "is_correct": false
+              },
+              {
+                "text": "To assess its contribution to climate change",
+                "is_correct": true
+              }
+            ]
+          },
+          {
+            "text": "Which consensus mechanism is considered more eco-friendly?",
+            "answers": [
+              {
+                "text": "Proof of Work",
+                "is_correct": false
+              },
+              {
+                "text": "Proof of Stake",
+                "is_correct": true
+              },
+              {
+                "text": "Proof of Concept",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What is a major environmental concern related to some cryptocurrencies?",
+            "answers": [
+              {
+                "text": "High transaction fees",
+                "is_correct": false
+              },
+              {
+                "text": "Excessive use of water resources",
+                "is_correct": false
+              },
+              {
+                "text": "Massive energy consumption during mining",
+                "is_correct": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ethical Investing",
+        "text": "Ethical investing in the crypto space involves supporting projects that promote sustainability and eco-friendly initiatives. Research and invest in cryptocurrencies that actively contribute to environmental causes or use their platform to fund green projects.",
+        "questions": [
+          {
+            "text": "What is ethical investing in the crypto space?",
+            "answers": [
+              {
+                "text": "Investing in the most profitable cryptocurrencies",
+                "is_correct": false
+              },
+              {
+                "text": "Supporting projects that promote sustainability",
+                "is_correct": true
+              },
+              {
+                "text": "Investing without doing any research",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What should you research before investing ethically?",
+            "answers": [
+              {
+                "text": "Environmental regulations",
+                "is_correct": false
+              },
+              {
+                "text": "The project's team members",
+                "is_correct": false
+              },
+              {
+                "text": "Cryptocurrencies' contributions to environmental causes",
+                "is_correct": true
+              }
+            ]
+          },
+          {
+            "text": "How can cryptocurrencies contribute to environmental causes?",
+            "answers": [
+              {
+                "text": "By encouraging energy consumption",
+                "is_correct": false
+              },
+              {
+                "text": "By supporting green projects",
+                "is_correct": true
+              },
+              {
+                "text": "By promoting wasteful spending",
+                "is_correct": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

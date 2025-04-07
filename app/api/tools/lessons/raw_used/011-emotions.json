@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "Avoiding FOMO",
+        "text": "Don't make investment decisions based on fear of missing out (FOMO). Instead, do your research and make informed decisions based on your own goals and risk tolerance.",
+        "questions": [
+          {
+            "text": "What should you avoid when making investment decisions?",
+            "answers": [
+              {"text": "FOMO", "is_correct": true},
+              {"text": "JOY", "is_correct": false},
+              {"text": "FEAR", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What should you do instead of making decisions based on FOMO?",
+            "answers": [
+              {"text": "Research", "is_correct": true},
+              {"text": "Guess", "is_correct": false},
+              {"text": "Copy others", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Should you make investment decisions based on your own goals and risk tolerance?",
+            "answers": [
+              {"text": "Yes", "is_correct": true},
+              {"text": "No", "is_correct": false},
+              {"text": "I don't know", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Staying Calm",
+        "text": "Stay calm and don't let your emotions get in the way of your investment decisions. Remember that the market fluctuates and ups and downs are normal.",
+        "questions": [
+          {
+            "text": "Should you let your emotions guide your investment decisions?",
+            "answers": [
+              {"text": "No", "is_correct": true},
+              {"text": "Yes", "is_correct": false},
+              {"text": "Sometimes", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What should you do instead of letting your emotions guide your investment decisions?",
+            "answers": [
+              {"text": "Stay calm", "is_correct": true},
+              {"text": "Panic", "is_correct": false},
+              {"text": "Cry", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Are market fluctuations normal?",
+            "answers": [
+              {"text": "Yes", "is_correct": true},
+              {"text": "No", "is_correct": false},
+              {"text": "I don't know", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

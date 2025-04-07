@@ -1,0 +1,118 @@
+{
+    "data": [
+      {
+        "name": "Avoid High Returns",
+        "text": "Be cautious of investment opportunities that promise high returns, especially if they are 'too good to be true'. Research the company and its credentials before investing.",
+        "questions": [
+          {
+            "text": "What should you do before investing in a company that promises high returns?",
+            "answers": [
+              {
+                "text": "Research the company",
+                "is_correct": true
+              },
+              {
+                "text": "Invest all your money",
+                "is_correct": false
+              },
+              {
+                "text": "Trust the company blindly",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "Are high returns always a good thing?",
+            "answers": [
+              {
+                "text": "Yes",
+                "is_correct": false
+              },
+              {
+                "text": "No",
+                "is_correct": true
+              },
+              {
+                "text": "Depends",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What should you do if an investment opportunity seems 'too good to be true'?",
+            "answers": [
+              {
+                "text": "Invest all your money",
+                "is_correct": false
+              },
+              {
+                "text": "Do nothing",
+                "is_correct": false
+              },
+              {
+                "text": "Be cautious and do research",
+                "is_correct": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Red Flags",
+        "text": "Be wary of investment opportunities that require you to act quickly, don't have a clear business plan, or use high-pressure sales tactics. These can be signs of a potential scam.",
+        "questions": [
+          {
+            "text": "What are some red flags to look out for when considering an investment opportunity?",
+            "answers": [
+              {
+                "text": "Act quickly",
+                "is_correct": true
+              },
+              {
+                "text": "Take your time",
+                "is_correct": false
+              },
+              {
+                "text": "Be indifferent",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "Should you trust an investment opportunity without a clear business plan?",
+            "answers": [
+              {
+                "text": "Yes",
+                "is_correct": false
+              },
+              {
+                "text": "No",
+                "is_correct": true
+              },
+              {
+                "text": "Depends",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What should you do if you feel pressured to invest in an opportunity?",
+            "answers": [
+              {
+                "text": "Invest anyway",
+                "is_correct": false
+              },
+              {
+                "text": "Walk away",
+                "is_correct": true
+              },
+              {
+                "text": "Fight back",
+                "is_correct": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

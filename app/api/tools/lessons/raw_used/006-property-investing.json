@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "Real Estate Basics",
+        "text": "Real estate investing involves purchasing and managing property to generate income or profit. Before investing, research the market and analyze potential returns. Additionally, consider the risks associated with investing in real estate.",
+        "questions": [
+          {
+            "text": "What is real estate investing?",
+            "answers": [
+              {"text": "Purchasing and managing property", "is_correct": true},
+              {"text": "Selling property for profit", "is_correct": false},
+              {"text": "Renting property to others", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What should you do before investing in real estate?",
+            "answers": [
+              {"text": "Research the market", "is_correct": true},
+              {"text": "Jump right in", "is_correct": false},
+              {"text": "Find a realtor", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What should you consider before investing in real estate?",
+            "answers": [
+              {"text": "Risks associated with real estate", "is_correct": true},
+              {"text": "Potential for profit", "is_correct": false},
+              {"text": "Location of the property", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Financing Real Estate",
+        "text": "Real estate investing often requires a significant amount of money. Consider various financing options, such as a mortgage or partnership, to fund your investment. Additionally, be prepared to cover additional costs, such as property taxes and maintenance.",
+        "questions": [
+          {
+            "text": "What should you consider when financing a real estate investment?",
+            "answers": [
+              {"text": "Various financing options", "is_correct": true},
+              {"text": "Paying cash upfront", "is_correct": false},
+              {"text": "Selling your current home", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What are some financing options for real estate investing?",
+            "answers": [
+              {"text": "Mortgage or partnership", "is_correct": true},
+              {"text": "Credit card or personal loan", "is_correct": false},
+              {"text": "Savings account or checking account", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What additional costs should you be prepared to cover when investing in real estate?",
+            "answers": [
+              {"text": "Property taxes and maintenance", "is_correct": true},
+              {"text": "Insurance premiums", "is_correct": false},
+              {"text": "Utilities and cable bills", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

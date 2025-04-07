@@ -1,0 +1,118 @@
+{
+    "data": [
+      {
+        "name": "What is Investing",
+        "text": "Investing is the act of allocating resources, usually money, with the expectation of generating an income or profit. By investing, you are putting your money to work for you and taking advantage of compounding returns over time.",
+        "questions": [
+          {
+            "text": "What is investing?",
+            "answers": [
+              {
+                "text": "Generating profit",
+                "is_correct": true
+              },
+              {
+                "text": "Spending money",
+                "is_correct": false
+              },
+              {
+                "text": "Saving money",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What is the benefit of investing?",
+            "answers": [
+              {
+                "text": "Compounding returns",
+                "is_correct": true
+              },
+              {
+                "text": "Immediate income",
+                "is_correct": false
+              },
+              {
+                "text": "Decreased liquidity",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What resources are usually allocated when investing?",
+            "answers": [
+              {
+                "text": "Money",
+                "is_correct": true
+              },
+              {
+                "text": "Time",
+                "is_correct": false
+              },
+              {
+                "text": "Energy",
+                "is_correct": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Trading and Stocks",
+        "text": "Trading involves buying and selling financial assets such as stocks, bonds, commodities, and currencies in order to profit from short-term price movements. Stocks represent ownership in a company and can be bought and sold on stock exchanges.",
+        "questions": [
+          {
+            "text": "What is trading?",
+            "answers": [
+              {
+                "text": "Buying and selling assets",
+                "is_correct": true
+              },
+              {
+                "text": "Holding assets long-term",
+                "is_correct": false
+              },
+              {
+                "text": "Investing in a company",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What are stocks?",
+            "answers": [
+              {
+                "text": "Ownership in a company",
+                "is_correct": true
+              },
+              {
+                "text": "Commodities",
+                "is_correct": false
+              },
+              {
+                "text": "Bonds",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "Which of these activities is focused on generating profit over a long term?",
+            "answers": [
+              {
+                "text": "Investing",
+                "is_correct": true
+              },
+              {
+                "text": "Trading",
+                "is_correct": false
+              },
+              {
+                "text": "Both",
+                "is_correct": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

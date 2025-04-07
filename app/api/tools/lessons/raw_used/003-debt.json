@@ -1,0 +1,184 @@
+{
+    "data": [
+      {
+        "name": "Personal Debt",
+        "text": "Only take on personal debt if you can afford it and have a plan to pay it back. High-interest debt like credit cards should be paid off as soon as possible.",
+        "questions": [
+          {
+            "text": "What should you do before taking on personal debt?",
+            "answers": [
+              {"text": "Plan to pay it back", "is_correct": true},
+              {"text": "Ignore it", "is_correct": false},
+              {"text": "Spend it all", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What type of personal debt should you pay off first?",
+            "answers": [
+              {"text": "High-interest debt like credit cards", "is_correct": true},
+              {"text": "Low-interest debt like student loans", "is_correct": false},
+              {"text": "It doesn't matter", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is a potential risk of taking on too much personal debt?",
+            "answers": [
+              {"text": "Debt can spiral out of control", "is_correct": true},
+              {"text": "Debt will be written off", "is_correct": false},
+              {"text": "Debt will never impact your life", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Debt and the Economy",
+        "text": "Debt is important for the economy as it allows individuals and businesses to make investments and grow. However, too much debt can lead to economic downturns and financial instability.",
+        "questions": [
+          {
+            "text": "What is a benefit of debt for the economy?",
+            "answers": [
+              {"text": "Allows for growth and investment", "is_correct": true},
+              {"text": "Causes economic downturns", "is_correct": false},
+              {"text": "Stagnates the economy", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What can happen if there is too much debt?",
+            "answers": [
+              {"text": "Financial instability", "is_correct": true},
+              {"text": "Economic growth", "is_correct": false},
+              {"text": "More investment opportunities", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Is all debt bad for the economy?",
+            "answers": [
+              {"text": "No", "is_correct": true},
+              {"text": "Yes", "is_correct": false},
+              {"text": "It depends", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Good Debt vs. Bad Debt",
+        "text": "Not all debt is created equal. Good debt is used to invest in things that will increase in value over time, like a home or education. Bad debt is used to finance things that will lose value or provide no return, like credit card debt or a luxury car.",
+        "questions": [
+          {
+            "text": "What is an example of good debt?",
+            "answers": [
+              {"text": "Education", "is_correct": true},
+              {"text": "Credit card debt", "is_correct": false},
+              {"text": "Luxury car loan", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is an example of bad debt?",
+            "answers": [
+              {"text": "Credit card debt", "is_correct": true},
+              {"text": "Mortgage", "is_correct": false},
+              {"text": "Investment in stocks", "is_correct": false}
+            ]
+          },
+          {
+            "text": "When could debt be good?",
+            "answers": [
+              {"text": "When the investment grows faster than the loan", "is_correct": true},
+              {"text": "Debt is always bad", "is_correct": false},
+              {"text": "It's free money, so it's always good", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Managing Debt",
+        "text": "If you're struggling with debt, there are steps you can take to manage it. Start by making a budget and cutting unnecessary expenses. Consider consolidating debt to lower interest rates, and explore options like debt counseling or bankruptcy if needed.",
+        "questions": [
+          {
+            "text": "What should you do if you're struggling with debt?",
+            "answers": [
+              {"text": "Make a budget and cut unnecessary expenses", "is_correct": true},
+              {"text": "Take out more loans to pay off existing debt", "is_correct": false},
+              {"text": "Ignore the problem and hope it goes away", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is debt consolidation?",
+            "answers": [
+              {"text": "Combining multiple debts into one loan with a lower interest rate", "is_correct": true},
+              {"text": "Taking out more loans to pay off existing debt", "is_correct": false},
+              {"text": "Defaulting on all debt and declaring bankruptcy", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What are some options for managing debt if you can't do it alone?",
+            "answers": [
+              {"text": "Debt counseling or bankruptcy", "is_correct": true},
+              {"text": "Taking out more loans", "is_correct": false},
+              {"text": "Ignoring the problem", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Impact of interest rates",
+        "text": "Interest rates can have a big impact on your financial situation. Higher interest rates mean that it costs more to borrow money, so you'll pay more in interest on loans and credit cards. On the other hand, higher interest rates can also mean higher returns on savings accounts and investments.",
+        "questions": [
+          {
+            "text": "What is the effect of higher interest rates on borrowing?",
+            "answers": [
+              {"text": "It costs more to borrow money", "is_correct": true},
+              {"text": "It costs less to borrow money", "is_correct": false},
+              {"text": "There is no effect on borrowing", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is the effect of higher interest rates on savings accounts and investments?",
+            "answers": [
+              {"text": "They can provide higher returns", "is_correct": true},
+              {"text": "They provide lower returns", "is_correct": false},
+              {"text": "There is no effect on savings and investments", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Why do higher interest rates mean higher returns on investments?",
+            "answers": [
+              {"text": "Borrowers want to pay more to borrow money", "is_correct": true},
+              {"text": "Banks are greedy", "is_correct": false},
+              {"text": "It is easier to profit when interest rates are high", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Get a good interest rate",
+        "text": "If you're looking to borrow money, there are steps you can take to get a good interest rate. Start by improving your credit score, as this can make you a more attractive borrower. Shop around and compare rates from different lenders to find the best deal. Finally, consider putting up collateral or getting a co-signer to improve your chances of getting approved and getting a lower interest rate.",
+        "questions": [
+          {
+            "text": "What is one way to get a good interest rate when borrowing money?",
+            "answers": [
+              {"text": "Improve your credit score", "is_correct": true},
+              {"text": "Ignore your credit score", "is_correct": false},
+              {"text": "Don't shop around for rates", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What should you do to find the best deal on a loan?",
+            "answers": [
+              {"text": "Shop around and compare rates from different lenders", "is_correct": true},
+              {"text": "Only look at one lender", "is_correct": false},
+              {"text": "Choose the first lender you find", "is_correct": false}
+            ]
+          },
+          {
+            "text": "How can putting up collateral or getting a co-signer help you get a lower interest rate?",
+            "answers": [
+              {"text": "You are seen as a less risky borrower", "is_correct": true},
+              {"text": "It guarantees that you will repay the loan", "is_correct": false},
+              {"text": "It has no effect on the interest rate", "is_correct": false}
+            ]
+            }
+        ]
+        }
+    ]
+  }

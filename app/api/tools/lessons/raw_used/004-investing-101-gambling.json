@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "name": "Stocks 101",
+            "text": "Invest in what you know. It's easier to understand a company's potential if you're familiar with their products and services.",
+            "questions": [
+                {
+                    "text": "What should you invest in?",
+                    "answers": [
+                        {"text": "What you know", "is_correct": true},
+                        {"text": "What you don't know", "is_correct": false},
+                        {"text": "Random companies", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "Why is it easier to understand a potential of a company you know?",
+                    "answers": [
+                        {"text": "You have more knowledge", "is_correct": true},
+                        {"text": "You have less knowledge", "is_correct": false},
+                        {"text": "It doesn't matter", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "What is one benefit of investing in what you know?",
+                    "answers": [
+                        {"text": "Easier to understand potential", "is_correct": true},
+                        {"text": "No risk", "is_correct": false},
+                        {"text": "Less returns", "is_correct": false}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Gambling vs. Investing",
+            "text": "Investing is not the same as gambling. When you invest, you're putting money into a company that you believe will grow over time. Gambling is putting money into something that relies on chance.",
+            "questions": [
+                {
+                    "text": "What is the difference between investing and gambling?",
+                    "answers": [
+                        {"text": "Investing relies on growth", "is_correct": true},
+                        {"text": "Investing relies on chance", "is_correct": false},
+                        {"text": "None", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "What are you putting money into when you invest?",
+                    "answers": [
+                        {"text": "A company", "is_correct": true},
+                        {"text": "A game", "is_correct": false},
+                        {"text": "A slot machine", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "What is the goal of investing?",
+                    "answers": [
+                        {"text": "Growth over time", "is_correct": true},
+                        {"text": "Immediate returns", "is_correct": false},
+                        {"text": "Losing money", "is_correct": false}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Timing the Market",
+            "text": "It's hard to predict when the market will go up or down, so it's best to invest for the long term.",
+            "questions": [
+                {
+                    "text": "Why is timing the market difficult?",
+                    "answers": [
+                        {"text": "You can't know where market will go", "is_correct": true},
+                        {"text": "The market is too volatile", "is_correct": false},
+                        {"text": "The market is too predictable", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "What is the best strategy for investing in the stock market?",
+                    "answers": [
+                        {"text": "Investing for the short term", "is_correct": false},
+                        {"text": "Investing for the long term", "is_correct": true},
+                        {"text": "Only investing in individual stocks", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "What is one risk of trying to time the market?",
+                    "answers": [
+                        {"text": "Missing out on potential gains", "is_correct": true},
+                        {"text": "Lowering your investment fees", "is_correct": false},
+                        {"text": "Increasing your returns", "is_correct": false}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Researching Stocks",
+            "text": "Before investing in a stock, do your own research on the company's financials, management, and competitors.",
+            "questions": [
+                {
+                    "text": "Why is it important to do your own research before investing in a stock?",
+                    "answers": [
+                        {"text": "Not important, you can follow others' advice", "is_correct": false},
+                        {"text": "Better understanding of the company's potential", "is_correct": true},
+                        {"text": "You'll save time and money", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "What are some factors to research before investing in a stock?",
+                    "answers": [
+                        {"text": "The stock's daily price fluctuations", "is_correct": false},
+                        {"text": "The company's management and competitors", "is_correct": true},
+                        {"text": "The stock's dividend yield", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "What can happen if you invest in a stock without doing any research?",
+                    "answers": [
+                        {"text": "You'll always make money", "is_correct": false},
+                        {"text": "You'll lose money", "is_correct": true},
+                        {"text": "Your returns will be average", "is_correct": false}
+                    ]
+                }
+            ]
+        }
+        
+    ]
+}

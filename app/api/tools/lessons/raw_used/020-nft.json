@@ -1,0 +1,64 @@
+{
+    "data": [
+    {
+    "name": "NFT Basics",
+    "text": "NFTs are unique digital assets that can be bought and sold like traditional assets. Each NFT has a unique code that verifies its authenticity and ownership. NFTs can represent anything from artwork to music to tweets.",
+    "questions": [
+    {
+    "text": "What does NFT stand for?",
+    "answers": [
+    {"text": "Non-fungible token", "is_correct": true},
+    {"text": "New financial technology", "is_correct": false},
+    {"text": "National financial trust", "is_correct": false}
+    ]
+    },
+    {
+    "text": "What makes NFTs unique?",
+    "answers": [
+    {"text": "Their code", "is_correct": true},
+    {"text": "Their price", "is_correct": false},
+    {"text": "Their rarity", "is_correct": false}
+    ]
+    },
+    {
+    "text": "What can NFTs represent?",
+    "answers": [
+    {"text": "Anything digital", "is_correct": true},
+    {"text": "Only artwork", "is_correct": false},
+    {"text": "Only music", "is_correct": false}
+    ]
+    }
+    ]
+    },
+    {
+    "name": "NFT Risks",
+    "text": "While NFTs can be a great investment opportunity, they also come with risks. Some NFTs may lose value over time, and the market can be volatile. Additionally, there is a risk of scams and fraud in the NFT market.",
+    "questions": [
+    {
+    "text": "What are some risks associated with NFTs?",
+    "answers": [
+    {"text": "Market volatility, scams and fraud", "is_correct": true},
+    {"text": "Stable returns, low risk", "is_correct": false},
+    {"text": "High liquidity, low fees", "is_correct": false}
+    ]
+    },
+    {
+    "text": "Can NFTs lose value?",
+    "answers": [
+    {"text": "Yes", "is_correct": true},
+    {"text": "No", "is_correct": false},
+    {"text": "Depends on the market", "is_correct": false}
+    ]
+    },
+    {
+    "text": "What is a risk of buying NFTs?",
+    "answers": [
+    {"text": "Scams and fraud", "is_correct": true},
+    {"text": "High returns", "is_correct": false},
+    {"text": "Low liquidity", "is_correct": false}
+    ]
+    }
+    ]
+    }
+    ]
+    }

@@ -1,0 +1,118 @@
+{
+    "data": [
+      {
+        "name": "Budgeting Basics",
+        "text": "Track your expenses and create a budget to make sure you're spending within your means. Prioritize your needs over wants and allocate funds accordingly.",
+        "questions": [
+          {
+            "text": "What is the first step in creating a budget?",
+            "answers": [
+              {
+                "text": "Track your expenses",
+                "is_correct": true
+              },
+              {
+                "text": "Set financial goals",
+                "is_correct": false
+              },
+              {
+                "text": "Invest in stocks",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "How can you prioritize your expenses when creating a budget?",
+            "answers": [
+              {
+                "text": "Focus on NEED before WANT",
+                "is_correct": true
+              },
+              {
+                "text": "Prioritize luxury items",
+                "is_correct": false
+              },
+              {
+                "text": "All expenses are equal",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What is the benefit of creating a budget?",
+            "answers": [
+              {
+                "text": "Ensuring you're spending within your means",
+                "is_correct": true
+              },
+              {
+                "text": "Maximizing investment returns",
+                "is_correct": false
+              },
+              {
+                "text": "Avoiding taxes",
+                "is_correct": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Saving Strategies",
+        "text": "Start small and automate your savings by setting up a direct deposit to a separate savings account. Build an emergency fund to cover unexpected expenses.",
+        "questions": [
+          {
+            "text": "What is the benefit of automating your savings?",
+            "answers": [
+              {
+                "text": "Consistency and discipline in saving",
+                "is_correct": true
+              },
+              {
+                "text": "Maximizing investment returns",
+                "is_correct": false
+              },
+              {
+                "text": "Avoiding taxes",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "How long should your emergency fund cover your expenses for?",
+            "answers": [
+              {
+                "text": "3-6 months",
+                "is_correct": true
+              },
+              {
+                "text": "1 month",
+                "is_correct": false
+              },
+              {
+                "text": "Emergency fund is optional",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What is a good way to start saving?",
+            "answers": [
+              {
+                "text": "Start small and gradually increase",
+                "is_correct": true
+              },
+              {
+                "text": "Only save spare change",
+                "is_correct": false
+              },
+              {
+                "text": "Max out your credit card",
+                "is_correct": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

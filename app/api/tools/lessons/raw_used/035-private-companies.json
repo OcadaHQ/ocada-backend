@@ -1,0 +1,64 @@
+{
+    "data": [
+    {
+    "name": "Private Company Basics",
+    "text": "Private companies are not publicly traded on stock exchanges. They are owned by a small group of individuals or entities. Private companies have more flexibility in decision-making and are not required to disclose financial information to the public.",
+    "questions": [
+    {
+    "text": "What is the main characteristic of a private company?",
+    "answers": [
+    {"text": "Not publicly traded", "is_correct": true},
+    {"text": "Government-owned", "is_correct": false},
+    {"text": "Listed on stock exchanges", "is_correct": false}
+    ]
+    },
+    {
+    "text": "Who are the owners of private companies?",
+    "answers": [
+    {"text": "Small group of individuals or entities", "is_correct": true},
+    {"text": "General public", "is_correct": false},
+    {"text": "Government agencies", "is_correct": false}
+    ]
+    },
+    {
+    "text": "Are private companies required to disclose financial information to the public?",
+    "answers": [
+    {"text": "No", "is_correct": true},
+    {"text": "Yes", "is_correct": false},
+    {"text": "Sometimes", "is_correct": false}
+    ]
+    }
+    ]
+    },
+    {
+    "name": "Advantages of Private Companies",
+    "text": "Private companies have more flexibility in decision-making and are not subject to the same regulatory requirements as public companies. They can focus on long-term goals without the pressure of meeting quarterly earnings targets. Additionally, private companies can maintain greater privacy and control over their operations.",
+    "questions": [
+    {
+    "text": "What is an advantage of private companies?",
+    "answers": [
+    {"text": "Flexibility in decision-making", "is_correct": true},
+    {"text": "Higher stock market returns", "is_correct": false},
+    {"text": "Public scrutiny", "is_correct": false}
+    ]
+    },
+    {
+    "text": "Why can private companies focus on long-term goals?",
+    "answers": [
+    {"text": "No pressure to meet quarterly earnings targets", "is_correct": true},
+    {"text": "Strict regulatory requirements", "is_correct": false},
+    {"text": "Limited access to capital", "is_correct": false}
+    ]
+    },
+    {
+    "text": "Do private companies have more privacy and control over their operations?",
+    "answers": [
+    {"text": "Yes", "is_correct": true},
+    {"text": "No", "is_correct": false},
+    {"text": "Depends on the industry", "is_correct": false}
+    ]
+    }
+    ]
+    }
+    ]
+    }

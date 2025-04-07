@@ -1,0 +1,118 @@
+{
+    "data": [
+      {
+        "name": "Taxes and Public Spending",
+        "text": "Taxes are the primary way governments raise revenue to fund public services such as education, healthcare, and national defense. The amount of taxes an individual pays depends on their income, with higher earners typically paying a higher percentage of their income in taxes. Understanding where your tax dollars go can help you appreciate the value of public services and make informed decisions about which political candidates to support.",
+        "questions": [
+          {
+            "text": "What are taxes used for?",
+            "answers": [
+              {
+                "text": "Fund public services",
+                "is_correct": true
+              },
+              {
+                "text": "Increase personal income",
+                "is_correct": false
+              },
+              {
+                "text": "Support political campaigns",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "Do higher earners typically pay a higher or lower percentage of their income in taxes?",
+            "answers": [
+              {
+                "text": "Higher",
+                "is_correct": true
+              },
+              {
+                "text": "Lower",
+                "is_correct": false
+              },
+              {
+                "text": "The same as lower earners",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "Why is it important to understand where your tax dollars go?",
+            "answers": [
+              {
+                "text": "To appreciate the value of public services",
+                "is_correct": true
+              },
+              {
+                "text": "To avoid paying taxes",
+                "is_correct": false
+              },
+              {
+                "text": "To increase personal income",
+                "is_correct": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tax Compliance",
+        "text": "Tax compliance is the act of filing and paying taxes in accordance with the law. Tax evasion, or not paying taxes that are owed, is illegal and can result in fines and even imprisonment. In order to stay compliant, keep detailed records of your income and expenses, report all income on your tax return, and pay taxes on time. Consider working with a tax professional if you have complex tax issues or questions.",
+        "questions": [
+          {
+            "text": "What is tax compliance?",
+            "answers": [
+              {
+                "text": "Filing and paying taxes in accordance with the law",
+                "is_correct": true
+              },
+              {
+                "text": "Not paying taxes that are owed",
+                "is_correct": false
+              },
+              {
+                "text": "Claiming more deductions than allowed",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What is tax evasion?",
+            "answers": [
+              {
+                "text": "Not paying taxes that are owed",
+                "is_correct": true
+              },
+              {
+                "text": "Filing and paying taxes in accordance with the law",
+                "is_correct": false
+              },
+              {
+                "text": "Claiming more deductions than allowed",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What should you do if you have complex tax issues or questions?",
+            "answers": [
+              {
+                "text": "Work with a tax professional",
+                "is_correct": true
+              },
+              {
+                "text": "Ignore the issue and hope it goes away",
+                "is_correct": false
+              },
+              {
+                "text": "Ask a friend",
+                "is_correct": false
+              }
+            ]
+            }
+        ]
+    }
+]
+}

@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "EPS Basics",
+        "text": "EPS is a financial metric that represents the portion of a company's profit allocated to each outstanding share of common stock. It is an important indicator of a company's profitability and can be used to compare different companies. ",
+        "questions": [
+          {
+            "text": "What does EPS stand for?",
+            "answers": [
+              {"text": "Earnings per share", "is_correct": true},
+              {"text": "Earnings potential score", "is_correct": false},
+              {"text": "Earnings projection system", "is_correct": false}
+            ]
+          },
+          {
+            "text": "EPS is important, because it represents what?",
+            "answers": [
+              {"text": "A company's profitability per share", "is_correct": true},
+              {"text": "A company's revenue", "is_correct": false},
+              {"text": "A company's debt level", "is_correct": false}
+            ]
+          },
+          {
+            "text": "When can EPS be negative?",
+            "answers": [
+              {"text": "When the company has a net loss", "is_correct": true},
+              {"text": "Never, it's always positive", "is_correct": false},
+              {"text": "In a few industries only", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Using EPS to Evaluate Stocks",
+        "text": "EPS can be used to evaluate stocks and help investors make informed decisions. It is important to compare the EPS of different companies in the same industry and to look at trends over time. A company with a higher EPS is generally more profitable and can be a good investment opportunity.",
+        "questions": [
+          {
+            "text": "How can EPS be used to evaluate stocks?",
+            "answers": [
+              {"text": "To compare companies in the same industry", "is_correct": true},
+              {"text": "To predict future stock prices", "is_correct": false},
+              {"text": "To analyze the company's debt level", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What does a higher EPS generally indicate?",
+            "answers": [
+              {"text": "A more profitable company", "is_correct": true},
+              {"text": "A company with higher revenue", "is_correct": false},
+              {"text": "A company with lower debt", "is_correct": false}
+            ]
+          },
+          {
+            "text": "Why is it important to look at trends in EPS?",
+            "answers": [
+              {"text": "To see if profitability improves or declines over time", "is_correct": true},
+              {"text": "To predict stock prices", "is_correct": false},
+              {"text": "To analyze the cash flow", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,66 @@
+{
+    "description": "Characters: bootstrap JSON file",
+    "updated": "2022-04-07",
+    "data": [
+        {
+            "image_url": "alien.png",
+            "category": "fiction"
+        },
+        {
+            "image_url": "boy.png",
+            "category": "people"
+        },
+        {
+            "image_url": "cactus.png",
+            "category": "food"
+        },
+        {
+            "image_url": "cat.png",
+            "category": "animals"
+        },
+        {
+            "image_url": "cupcake.png",
+            "category": "food"
+        },
+        {
+            "image_url": "dog.png",
+            "category": "animals"
+        },
+        {
+            "image_url": "dragon.png",
+            "category": "fiction"
+        },
+        {
+            "image_url": "ghost.png",
+            "category": "fiction"
+        },
+        {
+            "image_url": "girl.png",
+            "category": "people"
+        },
+        {
+            "image_url": "monkey.png",
+            "category": "animals"
+        },
+        {
+            "image_url": "pineapple.png",
+            "category": "food"
+        },
+        {
+            "image_url": "rook.png",
+            "category": "neutral"
+        },
+        {
+            "image_url": "strawberry.png",
+            "category": "food"
+        },
+        {
+            "image_url": "superhero.png",
+            "category": "fiction"
+        },
+        {
+            "image_url": "unicorn.png",
+            "category": "fiction"
+        }
+    ]
+}

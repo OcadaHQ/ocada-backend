@@ -1,0 +1,118 @@
+{
+    "data": [
+      {
+        "name": "Lottery Scams 1",
+        "text": "Never pay upfront fees for lottery winnings. Legitimate lotteries do not require you to pay fees or taxes in advance.",
+        "questions": [
+          {
+            "text": "Do legitimate lotteries require you to pay upfront fees?",
+            "answers": [
+              {
+                "text": "Yes",
+                "is_correct": false
+              },
+              {
+                "text": "No",
+                "is_correct": true
+              },
+              {
+                "text": "Maybe",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What should you do if you receive an email or letter saying you've won a lottery that you didn't enter?",
+            "answers": [
+              {
+                "text": "Give them your personal information",
+                "is_correct": false
+              },
+              {
+                "text": "Ignore it",
+                "is_correct": true
+              },
+              {
+                "text": "Pay the fees they ask for",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "Why do scammers ask for upfront fees for lottery winnings?",
+            "answers": [
+              {
+                "text": "To help you collect your winnings",
+                "is_correct": false
+              },
+              {
+                "text": "To steal your money",
+                "is_correct": true
+              },
+              {
+                "text": "To give to charity",
+                "is_correct": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lottery Scams 2",
+        "text": "Never give your personal or financial information to someone claiming to be from a lottery company. Legitimate lotteries will not ask for this information.",
+        "questions": [
+          {
+            "text": "Should you give your personal or financial information to someone claiming to be from a lottery company?",
+            "answers": [
+              {
+                "text": "Yes",
+                "is_correct": false
+              },
+              {
+                "text": "No",
+                "is_correct": true
+              },
+              {
+                "text": "Maybe",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "What should you do if you're not sure whether a lottery is legitimate or a scam?",
+            "answers": [
+              {
+                "text": "Send them money to find out",
+                "is_correct": false
+              },
+              {
+                "text": "Research the lottery online",
+                "is_correct": true
+              },
+              {
+                "text": "Give them your personal information",
+                "is_correct": false
+              }
+            ]
+          },
+          {
+            "text": "How can you tell if a lottery is a scam?",
+            "answers": [
+              {
+                "text": "They ask for your personal information",
+                "is_correct": true
+              },
+              {
+                "text": "They don't ask for money",
+                "is_correct": false
+              },
+              {
+                "text": "They have a website",
+                "is_correct": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,64 @@
+{
+    "data": [
+    {
+    "name": "DeFi Basics",
+    "text": "DeFi is a term used to describe financial applications that are built on blockchain technology. These applications are decentralized, meaning they operate on a peer-to-peer basis, and are not controlled by any central authority. DeFi allows users to access financial services in a more transparent, efficient, and secure manner.",
+    "questions": [
+    {
+    "text": "What does DeFi stand for?",
+    "answers": [
+    {"text": "Decentralized Finance", "is_correct": true},
+    {"text": "Digital Finance", "is_correct": false},
+    {"text": "DeFi is not an acronym", "is_correct": false}
+    ]
+    },
+    {
+    "text": "What is the benefit of using DeFi applications?",
+    "answers": [
+    {"text": "Transparency, efficiency, and security", "is_correct": true},
+    {"text": "Higher returns on investment", "is_correct": false},
+    {"text": "Lower transaction fees", "is_correct": false}
+    ]
+    },
+    {
+    "text": "What is the main characteristic of DeFi applications?",
+    "answers": [
+    {"text": "Decentralization", "is_correct": true},
+    {"text": "Centralization", "is_correct": false},
+    {"text": "Internationalization", "is_correct": false}
+    ]
+    }
+    ]
+    },
+    {
+    "name": "Risks and Rewards",
+    "text": "While DeFi can offer many benefits, it is important to understand the risks involved. DeFi is a relatively new and untested technology, which means that there is a higher level of risk involved. Additionally, since DeFi is decentralized, there is no central authority to provide oversight or insurance.",
+    "questions": [
+    {
+    "text": "What is one risk of using DeFi applications?",
+    "answers": [
+    {"text": "Higher level of risk involved", "is_correct": true},
+    {"text": "Lower returns on investment", "is_correct": false},
+    {"text": "Lower transaction fees", "is_correct": false}
+    ]
+    },
+    {
+    "text": "Why is there no central authority to provide oversight or insurance in DeFi?",
+    "answers": [
+    {"text": "Because DeFi is decentralized", "is_correct": true},
+    {"text": "Because DeFi is centralized", "is_correct": false},
+    {"text": "Because DeFi is internationalized", "is_correct": false}
+    ]
+    },
+    {
+    "text": "Is DeFi a tested technology?",
+    "answers": [
+    {"text": "No, it is relatively new and untested", "is_correct": true},
+    {"text": "Yes, it is a well-established technology", "is_correct": false},
+    {"text": "It is not clear", "is_correct": false}
+    ]
+    }
+    ]
+    }
+    ]
+    }

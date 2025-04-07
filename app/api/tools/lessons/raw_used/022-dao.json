@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "name": "What is DAO?",
+            "text": "DAOs are digital organizations that operate on a blockchain. They allow members to vote on decisions and receive rewards for participation.",
+            "questions": [
+                {
+                    "text": "What is a DAO?",
+                    "answers": [
+                        {"text": "Digital organization", "is_correct": true},
+                        {"text": "Financial institution", "is_correct": false},
+                        {"text": "Real estate company", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "What makes DAOs unique?",
+                    "answers": [
+                        {"text": "Operate on a blockchain", "is_correct": true},
+                        {"text": "Use traditional banking systems", "is_correct": false},
+                        {"text": "Managed by a single entity", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "What is the benefit of participating in a DAO?",
+                    "answers": [
+                        {"text": "Receive rewards", "is_correct": true},
+                        {"text": "Pay higher taxes", "is_correct": false},
+                        {"text": "No benefit", "is_correct": false}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Investing in DAOs",
+            "text": "DAOs can be invested in by buying their tokens, which give holders voting rights and a share of the organization's profits. It's important to research the DAO and its goals before investing.",
+            "questions": [
+                {
+                    "text": "How can DAOs be invested in?",
+                    "answers": [
+                        {"text": "Buying tokens", "is_correct": true},
+                        {"text": "Opening a bank account", "is_correct": false},
+                        {"text": "Joining a social club", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "What do DAO tokens provide?",
+                    "answers": [
+                        {"text": "Voting rights and share of profits", "is_correct": true},
+                        {"text": "Exclusive access to events", "is_correct": false},
+                        {"text": "Discounted shopping", "is_correct": false}
+                    ]
+                },
+                {
+                    "text": "What should you do before investing in a DAO?",
+                    "answers": [
+                        {"text": "Research the DAO and its goals", "is_correct": true},
+                        {"text": "Invest all your savings", "is_correct": false},
+                        {"text": "Ignore the risks", "is_correct": false}
+                    ]
+                }
+            ]
+        }
+    ]
+}

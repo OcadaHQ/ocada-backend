@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "ROI Basics",
+        "text": "ROI measures the return on an investment relative to the cost of the investment. When investing in the stock market, it's important to consider both short-term and long-term ROI.",
+        "questions": [
+          {
+            "text": "What does ROI measure?",
+            "answers": [
+              {"text": "Return on investment", "is_correct": true},
+              {"text": "Risk of investment", "is_correct": false},
+              {"text": "Revenue from investment", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What should you consider when investing in the stock market?",
+            "answers": [
+              {"text": "Short-term and long-term ROI", "is_correct": true},
+              {"text": "Market trends only", "is_correct": false},
+              {"text": "Earnings reports only", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is a good ROI for an investment?",
+            "answers": [
+              {"text": "Varies by investment", "is_correct": true},
+              {"text": "10%", "is_correct": false},
+              {"text": "20%", "is_correct": false}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Maximizing ROI",
+        "text": "Maximizing ROI in the stock market requires balancing risk and reward. Diversifying your portfolio can help reduce risk and increase overall ROI. Researching potential investments is also key to maximizing ROI.",
+        "questions": [
+          {
+            "text": "What is required to maximize ROI in the stock market?",
+            "answers": [
+              {"text": "Balancing risk and reward", "is_correct": true},
+              {"text": "Taking big risks only", "is_correct": false},
+              {"text": "Avoiding risky investments altogether", "is_correct": false}
+            ]
+          },
+          {
+            "text": "How can diversifying your portfolio help maximize ROI?",
+            "answers": [
+              {"text": "Reduces risk and increases overall ROI", "is_correct": true},
+              {"text": "Increases risk and decreases overall ROI", "is_correct": false},
+              {"text": "Has no effect on ROI", "is_correct": false}
+            ]
+          },
+          {
+            "text": "What is key to maximizing ROI in the stock market?",
+            "answers": [
+              {"text": "Researching potential investments", "is_correct": true},
+              {"text": "Taking advice from friends", "is_correct": false},
+              {"text": "Investing without doing any research", "is_correct": false}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
